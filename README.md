@@ -12,7 +12,7 @@ The purpose of this project is to use data to convince investors that a bike-sha
 *Thursday is the most popular day for the subscribers.
 
 Click the link below to see the visualizations
-[link to dashboard]
+[link to dashboard]https://public.tableau.com/app/profile/miao.huang4444/viz/NYC_bike_sharing/NYCBike-Sharing?publish=yes
 
 
 ## Summary
